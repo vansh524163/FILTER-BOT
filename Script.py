@@ -474,7 +474,7 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this THALAPATHY-FILTER-BOT bot to your group
+ Step 1: Administer this BOT bot to your group
 
  Step 2: Add your website and API
 
